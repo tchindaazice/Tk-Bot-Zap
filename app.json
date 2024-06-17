@@ -1,6 +1,6 @@
 {
-  "name": "PRINCE-BOT",
-  "description": "Prince MD A WhatsApp User BOT",
+  "name": "TK-BOT|HOME TECH",
+  "description": "TK-BOT|HOME TECH A WhatsApp User BOT",
   "logo": "https://telegra.ph/file/d9bcfd1ae673ebd58bd3e.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "repository": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT",
@@ -10,7 +10,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;Prince;923092668108;GDS"
+      "value": "+237676746654;TK JOEL;+237656971949;TKJ"
 
      },
       "DATABASE_URL": {
@@ -46,7 +46,7 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ-ᴘʀɪɴᴄᴇ-ᴍᴅ-ʙᴏᴛ"
+      "value": "TK-BOT|HOME TECH"
       },
     "DL_MSG": {
       "description": "Video downloader caption",
@@ -56,17 +56,17 @@
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUdWMWhMdFM3MWpLUVV1SzNwbkNKK2R4Q3BxZjZLaFVEK3lzenVId3UzZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWktia245OHRlNnRBWWpkaEtPWlh3b2dRRGZ0bUx1NTJ3R2p5OThoNWZqMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlTS9UdDB5TWZnelUvdWZTZWVDZHZlOTM2ZXNWcm5vWER2R01ZcSsxU0dVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlOEU1a0RqeS90TWVMa2tNRW51U3hWYlJKbzN2TmI4a2dZbE5kamtzcG5RPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldIV3l6NzdyQzZJenJwcEtBRzFCOXZWNDc5djdzTXZGVi9vQmdDbklhRlE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndoM1RsQTM0OWNGSGEvU0RFQ3NBN2dxS2liU2E5UFhGdHVRc0h3VU53QWc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0JiYWp1eUpDb21jdlVXMU96VEJVNXhDWW9BbEVlcW1kTFV1cUFtSTZWOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVDBFSWhJYThUbVdKRzl0UXBPRWRGa0VEdjZ2T1U5bUxkODV3N0JHYzRXOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlRMbjEwRnVFV0JLQXlDMVVqdHh4eTJ3dCtzYm5wRHl5dlRqdzdHUzI4eTFnWkIzTzhYWTNkb2QwaURuRDJkWGV1NFhhelN1MHZlOTExV09tKzA1YWpBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTksImFkdlNlY3JldEtleSI6InFYSlExRkVQRW8wRmRheVc4T051Q0x1N3dCcGFlK29MYUMxZHRacnR3cWc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjM3NjIwODkxMjI1QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjM3NjhEQkMzRkI1REMxMDM4QjA2OUVFNzZGNjQyMDc5In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MTg2NjM4Nzl9LHsia2V5Ijp7InJlbW90ZUppZCI6IjIzNzYyMDg5MTIyNUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJFMzQyMTgzMUU5MzEzOTQwQjU5MzM0NzlCMThCOTFBRSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzE4NjYzODgwfSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyMzc2MjA4OTEyMjVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiOTdFMjc0MEJCQTA5NjBDNjhCRkRERTE5MENDQTlDMDkifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcxODY2Mzg4M30seyJrZXkiOnsicmVtb3RlSmlkIjoiMjM3NjIwODkxMjI1QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjY4NDAyMTc1MzAzNzRDOTlCMTBCODc0MzU2NTM1N0NEIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MTg2NjM4ODN9XSwibmV4dFByZUtleUlkIjoxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ4RzhHSW55SFFJYXBhRVRIaDl2OHNRIiwicGhvbmVJZCI6IjYwMzY1M2FmLTNhNWItNDhkZC05MTMxLTBjZmE5MjJhYTJhMCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJJYUtXMmZEWW9MbFZKVENZVmtMQ1E4UHdLVDQ9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibVo5TFoyS1puckVkVHJ1RnZxYUlTemNxVDVBPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkJQWjczWVJZIiwibWUiOnsiaWQiOiIyMzc2MjA4OTEyMjU6MkBzLndoYXRzYXBwLm5ldCIsImxpZCI6IjE4MTYxNzQ0MDEwMDQxNzoyQGxpZCIsIm5hbWUiOiJIb21lIFRlY2gifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ00rRjE3WUJFTG4xd3JNR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkFHUXFUTVZiRUhjOEFwUEJxRHdaa0VmSWJBVUhYL1plK0g1S2ppS3ZobEE9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImJKNFVvWUhIUUNuZXlXQTZOTG9DY01Vdy9SQzdzMnhVWndrOEcrYzRQVkhPU0pRUys0TXVjUUY0Snl2OWptZzZkWTBNZ2UzOVBKdmpCOUtROUFEdUJ3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJ2N2dwT3dqMktZMzc0UGpseXI0Zm9TdmFGK3poMHQ5SjVYVlN1dkozZVRBNElzQy90eDdHdGozREZzZS9vbUZiWFJnMThwOTg5WlJxVldOSEw1SmpnQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNzYyMDg5MTIyNToyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlFCa0trekZXeEIzUEFLVHdhZzhHWkJIeUd3RkIxLzJYdmgrU280aXI0WlEifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTg2NjM4ODgsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBSzNWIn0="
     }
     
    
